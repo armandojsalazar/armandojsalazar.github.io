@@ -1,0 +1,22 @@
+img {
+    height: 20%;
+    width: 20%;
+}
+
+body {
+    background-color: skyblue;
+}
+
+.container {
+    width: 100%;
+}
+.card-body {
+    background-color: lightsteelblue;
+}
+i {
+    color: white;
+}
+.textcolor {
+    color: white;
+    margin: 0px;
+}
