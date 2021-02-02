@@ -20,3 +20,7 @@ i {
     color: white;
     margin: 0px;
 }
+
+#cardBody {
+    background-color: initial;
+}
